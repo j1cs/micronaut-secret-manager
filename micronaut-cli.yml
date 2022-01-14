@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: me.j1cs
+testFramework: spock
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, gcp-pubsub, graalvm, h2, hibernate-jpa, http-client, java, java-application, jdbc-hikari, logback, lombok, maven, netty-server, openapi, reactor, reactor-http-client, readme, shade, spock, testcontainers, yaml]

@@ -1,0 +1,10 @@
+micronaut:
+  application:
+    name: micronautWorkshop
+  config-client:
+    enabled: true
+
+gcp:
+  secret-manager:
+    keys:
+      - super_var
